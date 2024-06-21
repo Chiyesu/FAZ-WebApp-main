@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\UPDATED PROJECT\\webapp3\\FAZ-WebApp\\FAZ-WebApp-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FAZ.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FAZ.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\UPDATED PROJECT\\webapp3\\FAZ-WebApp\\FAZ-WebApp-main\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\UPDATED PROJECT\\webapp3\\FAZ-WebApp\\FAZ-WebApp-main\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\UPDATED PROJECT\\webapp3\\FAZ-WebApp\\FAZ-WebApp-main\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\UPDATED PROJECT\\webapp3\\FAZ-WebApp\\FAZ-WebApp-main\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FAZ.props",
+      "PackagePath": "build\\FAZ.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FAZ.props",
+      "PackagePath": "buildMultiTargeting\\FAZ.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FAZ.props",
+      "PackagePath": "buildTransitive\\FAZ.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

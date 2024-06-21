@@ -1,0 +1,127 @@
+@page "/teams"
+@using Data
+@inject TeamServices teamServices
+@rendermode @(new InteractiveServerRenderMode(prerender:false))
+<h1>Welcome to teams view</h1>
+
+@if (showErrorMessage)
+{
+    <div class="alert alert-danger" role="alert">
+        @errorMessage
+    </div>
+}
+
+<form>
+    <div class="row">
+        <div class="col-3">
+            <label class="form-label">Team ID</label>
+            <input type="number" class="form-control" @bind=newTeam.TeamId>
+        </div>
+        <div class="col-3">
+            <label class="form-label">Name</label>
+            <input type="string" class="form-control" @bind=newTeam.TeamName>
+        </div>
+        <div class="col-3">
+            <label class="form-label">Main Stadium</label>
+            <input type="string" class="form-control" @bind=newTeam.MainStadium>
+        </div>
+        <div class="col-3">
+            <label class="form-label">City</label>
+            <input type="string" class="form-control" @bind=newTeam.City>
+        </div>
+    </div>
+   <button type="button" class="btn btn-success col-12 my-2" @onclick="SaveTeam">@(isEditing ? "Update Team" : "Add Team")</button>
+</form>
+@if (teams == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>TeamID</th>
+            <th>TeamName</th>
+            <th>MainStadium</th>
+            <th>City</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var team in teams){
+            <tr>
+                <td>@team.TeamId</td>
+                <td>@team.TeamName</td>
+                <td>@team.MainStadium</td>
+                <td>@team.City</td>
+                <td>
+                    <button class="btn btn-primary" @onclick="() => EditTeam(team)">Edit</button>
+                    <button class="btn btn-danger" @onclick="() => DeleteTeam(team.TeamId)">Delete</button>                
+            </td>
+            </tr>
+        }
+    </tbody>
+</table>
+}
+
+@code{
+    
+    public List<Team> teams = new List<Team>();
+    public Team newTeam = new Team();
+    private bool isEditing = false;
+    private bool showErrorMessage = false;
+    private string errorMessage = string.Empty;
+     public async Task SaveTeam()
+    {
+            if (string.IsNullOrWhiteSpace(newTeam.TeamName) || 
+            newTeam.MainStadium == default || 
+            newTeam.City == default || 
+            newTeam.TeamId == 0)
+        {
+            errorMessage = "Please fill in all the details.";
+            showErrorMessage = true;
+            return;
+        }
+        
+        if (isEditing)
+        {
+            await teamServices.Update(newTeam); 
+        }
+        else
+        {
+            await teamServices.Post(newTeam);
+        }
+        
+        teams = teamServices.Get();
+        newTeam = new Team();
+        isEditing = false;
+        showErrorMessage = false;  
+        StateHasChanged();
+    }
+
+    public void EditTeam(Team team)
+    {
+        newTeam = new Team
+        {
+            TeamId = team.TeamId,
+            TeamName = team.TeamName,
+            MainStadium = team.MainStadium,
+            City = team.City
+        };
+        isEditing = true;
+    }
+
+    public async Task DeleteTeam (int teamId)
+    {
+        await teamServices.Delete(teamId);
+        teams = teamServices.Get();
+        StateHasChanged();
+        
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        teams = teamServices.Get();
+    }
+}

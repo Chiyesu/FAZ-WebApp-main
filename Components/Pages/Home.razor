@@ -1,0 +1,91 @@
+﻿@page "/"
+@using Data 
+@inject TeamServices teamServices 
+@inject MatchServices matchServices 
+@inject PlayerServices playerServices 
+
+<PageTitle>Home</PageTitle>
+
+<style>
+    .card-deck {
+        display: flex;
+        overflow-x: auto;
+        gap: 20px;
+        padding-bottom: 20px;
+    }
+
+    .card {
+        background-color: #f8f9fa;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 15px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease-in-out;
+        min-width: 300px; 
+    }
+
+    .card:hover {
+        transform: scale(1.02);
+    }
+</style>
+
+<div style="background-color: rgb(24, 75, 8); d-flex justify-content-center align-item-center m-3 rounded-5">
+    <h1 style="color: white;">Football Association Of Zambia - FAZ</h1>
+</div>
+<hr>
+<div style="background-color: rgb(233, 97, 6)">
+    The Football Association Of Zambia - FAZ Information System
+</div>
+
+ <h2>Latest Matches</h2>
+    <div class="card-deck">
+        @foreach (var match in matches)
+        {
+            var homeTeam = teams.FirstOrDefault(t => t.TeamId == match.HostTeamId);
+            var awayTeam = teams.FirstOrDefault(t => t.TeamId == match.GuestTeamId);
+            
+            <div class="card">
+                <div>
+                    <h5>@homeTeam.TeamName vs @awayTeam.TeamName</h5>
+                    <p>Date: @match.DatePlayed.ToShortDateString()</p>
+                    <button @onclick="() => ShowMatchDetails(match)">View Details</button>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="card">
+        <div>
+            @if (selectedMatch == null)
+            {
+                <p>Select a match to view details.</p>
+            }
+            else
+            {
+                var homeTeam = teams.FirstOrDefault(t => t.TeamId == selectedMatch.HostTeamId);
+                var awayTeam = teams.FirstOrDefault(t => t.TeamId == selectedMatch.GuestTeamId);
+                
+                <h5>@homeTeam.TeamName vs @awayTeam.TeamName</h5>
+                <p>Date: @selectedMatch.DatePlayed.ToShortDateString()</p>
+                <p>Final Result: @selectedMatch.FinalResult</p>
+                <p> @selectedMatch.News</p> 
+            }
+        </div>
+    </div>
+
+@code {
+    List<Team> teams = new List<Team>();
+    List<Match> matches = new List<Match>(); 
+    Match selectedMatch;
+
+    protected override async Task OnInitializedAsync()
+    {
+        teams = teamServices.Get();
+        matches = matchServices.Get();
+    }
+
+    void ShowMatchDetails(Match match)
+    {
+        selectedMatch = match;
+    }
+}

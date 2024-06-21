@@ -1,0 +1,942 @@
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\FAZ.exe
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\FAZ.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\FAZ.pdb
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.pdb
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\ref\FAZ.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\Admin\Desktop\FAZ Project\FAZ\FAZ\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.exe
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\ref\FAZ.dll
+C:\Users\sepok_ble77qw\Downloads\FAZ-WebApp-main (1)\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.exe
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.pdb
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.pdb
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\ref\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.exe
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\ref\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.exe
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\obj\Debug\net8.0\ref\FAZ.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sepok_ble77qw\FAZ-WebApp-1\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.exe
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.pdb
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\ref\FAZ.dll
+<<<<<<< HEAD
+C:\Users\sepok_ble77qw\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.exe
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.deps.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.runtimeconfig.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\FAZ.pdb
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.sourcelink.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.FAZ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.FAZ.props
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FAZ.props
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FAZ.props
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\bundle\FAZ.styles.css
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\scopedcss\projectbundle\FAZ.bundle.scp.css
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.csproj.Up2Date
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\refint\FAZ.dll
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.pdb
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\FAZ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\UPDATED PROJECT\webapp3\FAZ-WebApp\FAZ-WebApp-main\obj\Debug\net8.0\ref\FAZ.dll
+=======
+>>>>>>> 220b921ecd20c43662cf5344431e935518f4c503

@@ -1,0 +1,163 @@
+@page "/referee"
+@using Data
+@inject RefereeServices refereeServices
+@inject TeamServices teamServices
+@rendermode @(new InteractiveServerRenderMode(prerender:false))
+
+<h1>Referee View Page</h1>
+
+@if (showErrorMessage)
+{
+    <div class="alert alert-danger" role="alert">
+        @errorMessage
+    </div>
+}
+
+<div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Search by Referee Name..." @bind="searchReferee" />
+    <button class="btn btn-outline-secondary" type="button" @onclick="SearchReferees">Search</button>
+</div>
+
+<form>
+    <div class="row">
+        <div class="col-3">
+            <label class="form-label">Referee Id</label>
+            <input type="number" class="form-control" @bind="newReferee.RefereeId">
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Referee Name</label>
+            <input type="text" class="form-control" @bind="newReferee.RefereeName">
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Date Of Birth</label>
+            <input type="date" class="form-control" @bind="newReferee.DateOfBirth">
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Years Of Experience</label>
+            <input type="number" class="form-control" @bind="newReferee.YearsOfExperience">
+        </div>
+    </div>
+    <button type="button" class="btn btn-success col-12 my-2" @onclick="SaveReferee">@(isEditing ? "Update Referee" : "Add Referee")</button>
+</form>
+
+<!-- Referees table -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Referee Id</th>
+            <th>Referee Name</th>
+            <th>Date Of Birth</th>
+            <th>Years Of Experience</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var referee in filteredReferees)
+        {
+            <tr>
+                <td>@referee.RefereeId</td>
+                <td>@referee.RefereeName</td>
+                <td>@referee.DateOfBirth.ToShortDateString()</td>
+                <td>@referee.YearsOfExperience</td>
+                <td>
+                    <button class="btn btn-primary" @onclick="() => EditReferee(referee)">Edit</button>
+                    <button class="btn btn-danger" @onclick="() => DeleteReferee(referee.RefereeId)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public List<Referee> referees = new List<Referee>();
+    public List<Referee> filteredReferees = new List<Referee>();
+    public Referee newReferee = new Referee();
+    private bool isEditing = false;
+    private bool showErrorMessage = false;
+    private string errorMessage = string.Empty;
+    private string searchReferee = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        referees = refereeServices.Get();
+        filteredReferees = referees;
+    }
+
+    public async Task SaveReferee()
+    {
+        if (string.IsNullOrWhiteSpace(newReferee.RefereeName) ||
+            newReferee.DateOfBirth == default ||
+            newReferee.YearsOfExperience <= 0)
+        {
+            errorMessage = "Please fill in all the details.";
+            showErrorMessage = true;
+            return;
+        }
+
+        if (!isEditing && referees.Any(r => r.RefereeId == newReferee.RefereeId))
+        {
+            errorMessage = $"Referee with ID '{newReferee.RefereeId}' already exists.";
+            showErrorMessage = true;
+            return;
+        }
+
+        if (referees.Any(r =>
+            r.RefereeName.Equals(newReferee.RefereeName, StringComparison.OrdinalIgnoreCase) &&
+            r.DateOfBirth == newReferee.DateOfBirth &&
+            r.YearsOfExperience == newReferee.YearsOfExperience))
+        {
+            errorMessage = $"A referee with similar details already exists.";
+            showErrorMessage = true;
+            return;
+        }
+
+        if (isEditing)
+        {
+            await refereeServices.Update(newReferee);
+        }
+        else
+        {
+            await refereeServices.Post(newReferee);
+        }
+
+        referees = refereeServices.Get();
+        filteredReferees = referees;
+        newReferee = new Referee();
+        isEditing = false;
+        showErrorMessage = false;
+    }
+
+    public void EditReferee(Referee referee)
+    {
+        newReferee = new Referee
+        {
+            RefereeId = referee.RefereeId,
+            RefereeName = referee.RefereeName,
+            DateOfBirth = referee.DateOfBirth,
+            YearsOfExperience = referee.YearsOfExperience
+        };
+        isEditing = true;
+    }
+
+    public async Task DeleteReferee(int refereeId)
+    {
+        await refereeServices.Delete(refereeId);
+        referees = refereeServices.Get();
+        filteredReferees = referees;
+    }
+
+    public void SearchReferees()
+    {
+        if (string.IsNullOrWhiteSpace(searchReferee))
+        {
+            filteredReferees = referees;
+        }
+        else
+        {
+            filteredReferees = referees.Where(r => r.RefereeName.Contains(searchReferee, StringComparison.OrdinalIgnoreCase)).ToList();
+        }
+    }
+}

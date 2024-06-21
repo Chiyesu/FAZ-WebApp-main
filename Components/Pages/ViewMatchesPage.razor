@@ -1,0 +1,221 @@
+@page "/viewMatches"
+@using Data
+@inject MatchServices matchServices
+@inject TeamServices teamServices 
+@inject RefereeServices refereeServices
+@rendermode @(new InteractiveServerRenderMode(prerender:false))
+
+<h1>View Matches</h1>
+
+<!-- Search Section -->
+<div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Search by Host Team, Guest Team, Main Referee or Assistant Referees..." @bind="searchQuery" />
+    <button class="btn btn-outline-secondary" type="button" @onclick="SearchMatches">Search</button>
+</div>
+
+<form>
+    <div class="row">
+        <div class="col-3">
+            <label class="form-label">MatchId</label>
+            <input type="number" class="form-control" @bind="newMatch.MatchId">
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Host Team</label>
+            <select class="form-control" @bind="newMatch.HostTeamId">
+                <option value="">Select Team</option>
+                @foreach (var team in teams)
+                {
+                    <option value="@team.TeamId">@team.TeamName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Guest Team</label>
+            <select class="form-control" @bind="newMatch.GuestTeamId">
+                <option value="">Select Team</option>
+                @foreach (var team in teams)
+                {
+                    <option value="@team.TeamId">@team.TeamName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Final Results</label>
+            <input type="text" class="form-control" @bind="newMatch.FinalResult">
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Main Referee</label>
+            <select class="form-control" @bind="newMatch.RefereeId">
+                <option value="">Select MainRef</option>
+                @foreach(var referee in referees)
+                {
+                    <option value="@referee.RefereeId">@referee.RefereeName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Assistant Referee 1</label>
+            <select class="form-control" @bind="newMatch.AssistantReferee1Id">
+                <option value="">Select AssistantRef1</option>
+                @foreach(var referee in referees)
+                {
+                    <option value="@referee.RefereeId">@referee.RefereeName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Assistant Referee 2</label>
+            <select class="form-control" @bind="newMatch.AssistantReferee2Id">
+                <option value="">Select AssistantRef2</option>
+                @foreach(var referee in referees)
+                {
+                    <option value="@referee.RefereeId">@referee.RefereeName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-3">
+            <label class="form-label">Date Played</label>
+            <input type="date" class="form-control" @bind="newMatch.DatePlayed">
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col">
+            <label class="form-label">News</label>
+            <textarea class="form-control" rows="3" @bind="newMatch.News"></textarea>
+        </div>
+    </div>
+    <button type="button" class="btn btn-success col-12 my-3" @onclick="AddOrUpdateMatch">@(isEditing ? "Update Match" : "Add Match")</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>MatchId</th>
+            <th>Host Team</th>
+            <th>Guest Team</th>
+            <th>Final Results</th>
+            <th>Main Referee</th>
+            <th>Assistant Referee 1</th>
+            <th>Assistant Referee 2</th>
+            <th>Date Played</th>
+            <th>News</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var match in filteredMatches)
+        {
+            <tr>
+                <td>@match.MatchId</td>
+                <td>@teams.FirstOrDefault(t => t.TeamId == match.HostTeamId)?.TeamName</td>
+                <td>@teams.FirstOrDefault(t => t.TeamId == match.GuestTeamId)?.TeamName</td>
+                <td>@match.FinalResult</td>
+                <td>@referees.FirstOrDefault(r => r.RefereeId == match.RefereeId)?.RefereeName</td>
+                <td>@referees.FirstOrDefault(r => r.RefereeId == match.AssistantReferee1Id)?.RefereeName</td>
+                <td>@referees.FirstOrDefault(r => r.RefereeId == match.AssistantReferee2Id)?.RefereeName</td>
+                <td>@match.DatePlayed</td>
+                <td>@match.News</td>
+                <td>
+                    <div class="d-flex">
+                        <button class="btn btn-primary mr-3" @onclick="() => EditMatch(match)">Edit</button>
+                        <button class="btn btn-danger" @onclick="() => DeleteMatch(match.MatchId)">Delete</button>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public List<Match> matches = new List<Match>();
+    public List<Match> filteredMatches = new List<Match>();
+    public Match newMatch = new Match();
+    public List<Team> teams = new List<Team>();
+    public List<Referee> referees = new List<Referee>();
+    private bool isEditing = false;
+    private string searchQuery = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+
+    private async Task LoadData()
+    {
+        matches = matchServices.Get();
+        teams = teamServices.Get();
+        referees = refereeServices.Get();
+        filteredMatches = matches;
+    }
+
+    public async Task AddOrUpdateMatch()
+    {
+        if (isEditing)
+        {
+            await matchServices.Update(newMatch);
+        }
+        else
+        {
+            await matchServices.Post(newMatch);
+        }
+
+        await LoadData();
+        newMatch = new Match();
+        isEditing = false;
+    }
+
+    public async Task DeleteMatch(int matchId)
+    {
+        await matchServices.Delete(matchId);
+        await LoadData();
+    }
+
+    public void EditMatch(Match match)
+    {
+        newMatch = new Match
+        {
+            MatchId = match.MatchId,
+            HostTeamId = match.HostTeamId,
+            GuestTeamId = match.GuestTeamId,
+            FinalResult = match.FinalResult,
+            RefereeId = match.RefereeId,
+            AssistantReferee1Id = match.AssistantReferee1Id,
+            AssistantReferee2Id = match.AssistantReferee2Id,
+            DatePlayed = match.DatePlayed,
+            News = match.News
+        };
+        isEditing = true;
+    }
+
+    public void SearchMatches()
+    {
+        if (string.IsNullOrWhiteSpace(searchQuery))
+        {
+            filteredMatches = matches;
+        }
+        else
+        {
+            filteredMatches = matches.Where(m =>
+            {
+                var hostTeam = teams.FirstOrDefault(t => t.TeamId == m.HostTeamId)?.TeamName;
+                var guestTeam = teams.FirstOrDefault(t => t.TeamId == m.GuestTeamId)?.TeamName;
+                var mainReferee = referees.FirstOrDefault(r => r.RefereeId == m.RefereeId)?.RefereeName;
+                var assistantReferee1 = referees.FirstOrDefault(r => r.RefereeId == m.AssistantReferee1Id)?.RefereeName;
+                var assistantReferee2 = referees.FirstOrDefault(r => r.RefereeId == m.AssistantReferee2Id)?.RefereeName;
+
+                return (hostTeam != null && hostTeam.Contains(searchQuery, StringComparison.OrdinalIgnoreCase)) ||
+                       (guestTeam != null && guestTeam.Contains(searchQuery, StringComparison.OrdinalIgnoreCase)) ||
+                       (mainReferee != null && mainReferee.Contains(searchQuery, StringComparison.OrdinalIgnoreCase)) ||
+                       (assistantReferee1 != null && assistantReferee1.Contains(searchQuery, StringComparison.OrdinalIgnoreCase)) ||
+                       (assistantReferee2 != null && assistantReferee2.Contains(searchQuery, StringComparison.OrdinalIgnoreCase));
+            }).ToList();
+        }
+    }
+}

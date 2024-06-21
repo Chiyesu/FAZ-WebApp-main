@@ -1,0 +1,104 @@
+@page "/substitution"
+@using Data
+@inject SubstitutionServices substitutionService
+@inject PlayerServices playerServices
+@inject TeamServices teamServices
+@inject MatchServices matchServices
+@rendermode @(new InteractiveServerRenderMode(prerender:false)) 
+<h1>Substitution</h1>
+
+<form>
+    <div class="row">
+        <div class="col-2">
+            <label class="form-label">SubstitutionID</label>
+            <input type="number" class="form-control" @bind="newSubstitution.SubstitutionId">
+        </div>
+
+        <div class="col-2">
+            <label class="form-label">MatchId</label>
+            <select class="form-control" @bind="newSubstitution.MatchId">
+                <option>Select MatchId</option>
+                @foreach(var match in matches)
+                {
+                    <option value="@match.MatchId">@match.MatchId</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-2">
+            <label class="form-label">PlayerInId</label>
+            <select class="form-control" @bind="newSubstitution.PlayerInId">
+                <option>Select PlayerIn</option>
+                @foreach(var player in players)
+                {
+                    <option value="@player.PlayerId">@player.PlayerName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-2">
+            <label class="form-label">PlayerOutId</label>
+            <select class="form-control" @bind="newSubstitution.PlayerOutId">
+                <option>Select PlayerOut</option>
+                @foreach(var player in players)
+                {
+                    <option value="@player.PlayerId">@player.PlayerName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-2">
+            <label class="form-label">Time</label>
+            <input type="Time" class="form-control" @bind="newSubstitution.Time">
+        </div>
+        <button type="button" class="btn btn-success col-12 my-3" @onclick="AddSubstitution">Update Substitution</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>SubstitutionId</th>
+            <th>MatchId</th>
+            <th>PlayerInId</th>
+            <th>PlayerOutId</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var substitution in substitutions)
+        {
+            <tr>
+                <td>@substitution.SubstitutionId</td>
+                <td>@matches.FirstOrDefault(m => m.MatchId == substitution.MatchId)?.MatchId</td>
+                <td>@players.FirstOrDefault(p => p.PlayerId == substitution.PlayerInId)?.PlayerName</td>
+                <td>@players.FirstOrDefault(p => p.PlayerId == substitution.PlayerOutId)?.PlayerName</td>
+                <td>@substitution.Time</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public List<Substitution> substitutions = new List<Substitution>();
+    public Substitution newSubstitution = new Substitution();
+    public List<Team> teams = new List<Team>();
+    public List<Player> players = new List<Player>();
+    public List<Match> matches = new List<Match>();
+
+    public async Task AddSubstitution()
+    {
+        await substitutionService.Post(newSubstitution);
+        substitutions = substitutionService.Get();
+        newSubstitution = new();
+        StateHasChanged();
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        substitutions = substitutionService.Get();
+        teams = teamServices.Get();
+        players = playerServices.Get();
+        matches = matchServices.Get();
+    }
+}
